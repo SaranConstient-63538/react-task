@@ -1,0 +1,7 @@
+//constants
+export  const actionType={
+    LOGIN_SUCCESS : 'LOGIN_SUCCESS',
+    ADD_FORM_UNIVERSITY : 'ADD_FORM_UNIVERSITY',
+    EDIT_FORM_UNIVERSITY : 'EDIT_FORM_UNIVERSITY'
+}
+ 
